@@ -1,0 +1,15 @@
+{
+  "name": "serv",
+  "version": "1.0.0",
+  "description": "Simple web-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasia Usakova",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "node-static": "^0.7.11"
+  }
+}

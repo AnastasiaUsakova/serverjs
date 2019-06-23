@@ -1,0 +1,50 @@
+{
+  "form": [
+    {
+      "id": "left",
+      "html": "%0A%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%3Clabel%20for%3D%22lText%22%3EText%3C/label%3E%0A%20%20%20%20%3Cinput%20type%3D%22text%22%20class%3D%22form-control%22%20id%3D%22lText%22%3E%0A%20%20%3C/div%3E%0A%20%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%3Clabel%20for%3D%22lText%22%3EText%3C/label%3E%0A%20%20%20%20%3Cinput%20type%3D%22text%22%20class%3D%22form-control%22%20id%3D%22lText111%22%3E%0A%20%20%3C/div%3E%0A%20%20%0A%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%3Clabel%20for%3D%22lText1121%22%3EText3%3C/label%3E%0A%20%20%20%20%3Cinput%20type%3D%22text%22%20class%3D%22form-control%22%20id%3D%22lText1121%22%3E%0A%20%20%3C/div%3E%0A%20%20%0A%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%3Clabel%20for%3D%22lSelect%22%3ESelector%3C/label%3E%0A%20%20%20%20%3Cselect%20class%3D%22form-control%22%20id%3D%22lSelect%22%3E%0A%20%20%20%20%20%20%3Coption%3E1%3C/option%3E%0A%20%20%20%20%20%20%3Coption%3E2%3C/option%3E%0A%20%20%20%20%20%20%3Coption%3E3%3C/option%3E%0A%20%20%20%20%20%20%3Coption%3E4%3C/option%3E%0A%20%20%20%20%20%20%3Coption%3E5%3C/option%3E%0A%20%20%20%20%3C/select%3E%0A%20%20%3C/div%3E%20%20%0A%20%20%3Cdiv%20class%3D%22form-group%22%3E%0A%20%20%20%20%3Clabel%20for%3D%22lTextarea%22%3ETextarea%3C/label%3E%0A%20%20%20%20%3Ctextarea%20class%3D%22form-control%22%20id%3D%22lTextarea%22%20rows%3D%223%22%3E%3C/textarea%3E%0A%20%3C/div%3E%0A%20%0A%20%3Cdiv%20class%3D%22form-check%22%3E%0A%20%20%3Cinput%20class%3D%22form-check-input%22%20type%3D%22checkbox%22%20value%3D%22%22%20id%3D%22lChbox%22%3E%0A%20%20%3Clabel%20class%3D%22form-check-label%22%20for%3D%22lChbox%22%3E%0A%20%20%20%20Checkbox%0A%20%20%3C/label%3E%0A%3C/div%3E%0A%09%3Cdiv%3E%0A%09%3Cdiv%20class%3D%22form-check%22%3E%0A%09%20%20%3Cinput%20class%3D%22form-check-input%22%20type%3D%22radio%22%20id%3D%22lRadio1%22%20name%3D%22lRadio%22%20value%3D%22option1%22%3E%0A%09%20%20%3Clabel%20class%3D%22form-check-label%22%20for%3D%22lRadio1%22%3E%0A%09%09Radiobox%0A%09%20%20%3C/label%3E%0A%09%3C/div%3E%0A%09%3Cdiv%20class%3D%22form-check%22%3E%0A%09%20%20%3Cinput%20class%3D%22form-check-input%22%20type%3D%22radio%22%20id%3D%22lRadio2%22%20name%3D%22lRadio%22%20value%3D%22option2%22%3E%0A%09%20%20%3Clabel%20class%3D%22form-check-label%22%20for%3D%22lRadio2%22%3E%0A%09%09Radiobox%0A%09%20%20%3C/label%3E%0A%09%3C/div%3E%0A%3C/div%3E%0A",
+      "data": [
+        {
+          "id": "lText",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "id": "lText111",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "id": "lText1121",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "id": "lSelect",
+          "type": "string",
+          "value": "1"
+        },
+        {
+          "id": "lTextarea",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "id": "lChbox",
+          "type": "boolean",
+          "value": "false"
+        },
+        {
+          "id": "lRadio1",
+          "type": "boolean",
+          "value": "true"
+        },
+        {
+          "id": "lRadio2",
+          "type": "boolean",
+          "value": "false"
+        }
+      ]
+    }
+  ]
+}
